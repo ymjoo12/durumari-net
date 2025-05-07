@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DURUMARI.NET</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.durumari.net/tags/</link>
     <description>Recent content in Tags on DURUMARI.NET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.durumari.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SWM</title>
-      <link>http://localhost:1313/tags/swm/</link>
+      <link>https://www.durumari.net/tags/swm/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/swm/</guid>
+      <guid>https://www.durumari.net/tags/swm/</guid>
       
         <description></description>
       

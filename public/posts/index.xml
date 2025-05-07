@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DURUMARI.NET</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://www.durumari.net/posts/</link>
     <description>Recent content in Posts on DURUMARI.NET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.durumari.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>두루마리의 블로그</title>
-      <link>http://localhost:1313/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</link>
+      <link>https://www.durumari.net/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</guid>
+      <guid>https://www.durumari.net/posts/%EC%B2%AB%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8/</guid>
       
         <description>&lt;p&gt;트랄랄렐로
-&lt;img src=&#34;http://localhost:1313/images/Pasted%20image%2020250507224117.png&#34; alt=&#34;Image Description&#34;&gt;
+&lt;img src=&#34;https://www.durumari.net/images/Pasted%20image%2020250507224117.png&#34; alt=&#34;Image Description&#34;&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/js1CtxSY38I?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
