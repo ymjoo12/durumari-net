@@ -1,0 +1,11 @@
+# flyctl launch added from themes/anatole/.gitignore
+themes/anatole/**/**/themes
+themes/anatole/**/demo
+themes/anatole/**/.hugo/*
+!themes/anatole/**/.hugo/version
+themes/anatole/**/.hugo_build.lock
+themes/anatole/node_modules
+themes/anatole/**/exampleSite/public
+themes/anatole/**/.DS_Store
+themes/anatole/**/public
+fly.toml
